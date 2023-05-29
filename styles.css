@@ -1,21 +1,10 @@
-
-/* Your CSS Code here. */
-.container {
-    width: 250px;
-    background-color: purple;
-    height: 50%;
-    overflow: hidden;
-}
-
-.main {
+.main{
     border-left: 5px solid green;
+    background-color: purple;
+    width: 200px;
     padding: 10px;
-}
-
-.heading {
     color: white;
 }
-
-.heading h1 {
-    font-size: 20px;
+#heading{
+	font-size: 20px;
 }
